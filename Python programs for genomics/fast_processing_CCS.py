@@ -31,9 +31,9 @@
 # among other statistics.
 #
 # Examples of command line input format:
-#   a) python fast_processing_CCS.py --input test.fastq --output result.fastq --operation rc
-#   b) python fast_processing_CCS.py --input test.fastq --output result.fastq --operation trim --trim-right 10 –-trim-left 20
-#   c) python fast_processing_CCS.py --input test.fastq --output result.fastq --operation adaptor-removal --adaptor TATAGA 
+#   a) python fast_processing_CCS.py --input ./Test-files/fasta_test.fasta --output result.fasta --operation rc
+#   b) python fast_processing_CCS.py --input ./Test-files/fasta_test.fasta --output result.fasta --operation trim --trim-right 10 –-trim-left 20
+#   c) python fast_processing_CCS.py --input ./Test-files/fasta_test.fasta --output result.fasta --operation adaptor-removal --adaptor TATAGA 
 #
 #
 #
